@@ -1,0 +1,25 @@
+uuid: f6b73350-0d66-41f5-b8e0-322f33b59bc8
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:auxiliary_block_type:5d38590e-c441-4eab-80ad-38f5c41a2960'
+  module:
+    - block_content
+  theme:
+    - bartik
+id: auxtypeblockmigratedfromdevsite
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'block_content:5d38590e-c441-4eab-80ad-38f5c41a2960'
+settings:
+  id: 'block_content:5d38590e-c441-4eab-80ad-38f5c41a2960'
+  label: 'Aux Type Block Migrated from Dev Site'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

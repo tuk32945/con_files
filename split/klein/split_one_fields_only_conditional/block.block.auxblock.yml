@@ -1,0 +1,23 @@
+uuid: d54cd0bf-85fe-430b-8d4d-e3793e35f4a8
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bartik
+_core:
+  default_config_hash: fYvyj2phkzfaFr6KrUhDlqQ3n5BH7LWrpb9vppvpnEE
+id: auxblock
+theme: bartik
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'block_content:01b9778e-e0dd-4879-8f3e-3cbfcb71ad04'
+settings:
+  id: 'block_content:01b9778e-e0dd-4879-8f3e-3cbfcb71ad04'
+  label: 'Broken Aux Block from Aux Feature Module'
+  provider: core
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

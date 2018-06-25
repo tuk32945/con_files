@@ -1,0 +1,10 @@
+uuid: 3500952f-deb5-4b1c-b3dc-36796cc3b1f9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Et9a21Z_TpAkMfGD2Ua5xRXipciOrUWg_9UXD3jX9A4
+id: auxiliary_block_type
+label: 'Auxiliary Block Type'
+revision: 0
+description: ''

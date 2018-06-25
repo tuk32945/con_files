@@ -1,0 +1,24 @@
+uuid: fcfba354-0315-4ceb-b06e-260c12e89e54
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.auxiliary_block_type
+    - field.storage.block_content.body
+  module:
+    - text
+_core:
+  default_config_hash: FJySqBw2-iFOdLqjQC76tw1WN7QuT9_afAA4u7g4IUE
+id: block_content.auxiliary_block_type.body
+field_name: body
+entity_type: block_content
+bundle: auxiliary_block_type
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: false
+field_type: text_with_summary
